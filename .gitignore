@@ -41,6 +41,7 @@ results*.csv
 coco/
 coco128/
 VOC/
+dataset/
 
 # MATLAB GitIgnore -----------------------------------------------------------------------------------------------------
 *.m~
@@ -62,6 +63,7 @@ VOC/
 *_web_model/
 *_openvino_model/
 *_paddle_model/
+.cometml-runs/
 darknet53.conv.74
 yolov3-tiny.conv.15
 
